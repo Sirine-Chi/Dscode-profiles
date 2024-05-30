@@ -1,2 +1,2 @@
-# Dscode-profiles
+# Vscode-profiles
 My vscode profiles
